@@ -1,2 +1,2 @@
-# dotfile
+# dotfiles
 dotfile config etc...
